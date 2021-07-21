@@ -9,7 +9,7 @@ function Policies({}: PoliciesProps) {
         <a href="/policy/terms">Terms of use</a>
         <a href="/policy/privacy">Privacy</a>
         <a href="/policy/cookies">Cookies</a>
-        <a href="mailto:contact.velofolio@gmail.com">Contact</a>
+        <a href="mailto:contact.backtest@gmail.com">Contact</a>
       </div>
     </div>
   )

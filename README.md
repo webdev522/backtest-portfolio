@@ -1,8 +1,8 @@
-# velofolio
+# backtest-portfolio
 
-> [velofolio](https://www.velofolio.net) is yet another U.S. Stock backtest simulator tool. You can easily share your backtest or explore other's backtest within service. This service is currently in beta stage.
+> This is is yet another U.S. Stock backtest simulator tool. You can easily share your backtest or explore other's backtest within service. This service is currently in beta stage.
 
-This project is a monorepo of the velofolio service. It contains client & server projects.
+This project is a monorepo of the backtesting service. It contains client & server projects.
 
 ## Project Stack
 

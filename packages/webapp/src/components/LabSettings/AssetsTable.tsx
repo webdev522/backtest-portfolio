@@ -56,7 +56,7 @@ function AssetsTable({ focusInput }: AssetsTableProps) {
               <div css={paddingLeft}></div>
               {asset.image ? (
                 <img
-                  src={`https://files.velofolio.net/logos/us_stocks/${asset.ticker}.png`}
+                  src={`https://files.backtest.net/logos/us_stocks/${asset.ticker}.png`}
                   alt={`${asset.ticker} logo`}
                 />
               ) : (

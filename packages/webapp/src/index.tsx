@@ -14,7 +14,7 @@ ReactDOM.render(
   <React.StrictMode>
     <HelmetProvider>
       <Helmet>
-        <title>Velofolio</title>
+        <title>Backtest</title>
       </Helmet>
       <RecoilRoot initializeState={recoilInitializer}>
         <QueryClientProvider client={queryClient}>

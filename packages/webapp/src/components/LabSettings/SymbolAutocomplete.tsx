@@ -37,7 +37,7 @@ function SymbolAutocomplete({
             id={result.id}
             image={
               result.image
-                ? `https://files.velofolio.net/logos/us_stocks/${result.ticker}.png`
+                ? `https://files.backtest.net/logos/us_stocks/${result.ticker}.png`
                 : null
             }
             name={result.name}

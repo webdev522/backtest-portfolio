@@ -14,7 +14,7 @@ function Explore({}: ExploreProps) {
   return (
     <>
       <Helmet>
-        <title>Explore – Velofolio</title>
+        <title>Explore – Backtest</title>
       </Helmet>
       <h1 css={title}>Explore</h1>
       <BacktestsGrid />

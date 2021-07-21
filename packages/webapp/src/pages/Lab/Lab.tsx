@@ -45,8 +45,8 @@ function Lab({}: LabProps) {
       <Helmet>
         <title>
           {id
-            ? `${title} – Velofolio`
-            : 'Velofolio – Backtest your financial portfolio'}
+            ? `${title} – Backtest`
+            : 'Backtest – Backtest your financial portfolio'}
         </title>
       </Helmet>
       <LabSettings />

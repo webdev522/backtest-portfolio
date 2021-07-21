@@ -143,7 +143,7 @@
       "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
     ],
     "testEnvironment": "jsdom",
-    "testRunner": "/Users/public.velopert/velopolio/packages/webapp/node_modules/jest-circus/runner.js",
+    "testRunner": "/Users/public.webdev522/velopolio/packages/webapp/node_modules/jest-circus/runner.js",
     "transform": {
       "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "<rootDir>/node_modules/babel-jest",
       "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
@@ -185,5 +185,5 @@
       "@emotion"
     ]
   },
-  "proxy": "https://api.velofolio.net/"
+  "proxy": "https://api.backtest.net/"
 }

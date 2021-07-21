@@ -24,13 +24,13 @@ export default class Server {
         }
         const host = origin.split('://')[1]
         const allowedHost = [
-          'www.velofolio.net',
-          'velopert.vercel.app',
-          'velofolio.net',
-          'velofolio.vlpt.us',
+          'www.backtest.net',
+          'webdev522.vercel.app',
+          'backtest.net',
+          'backtest.vlpt.us',
           'localhost:3000',
         ]
-        const vercelBranchDeployRegex = /-velopert.vercel.app$/
+        const vercelBranchDeployRegex = /-webdev522.vercel.app$/
         const allowed =
           allowedHost.includes(host) || vercelBranchDeployRegex.test(host)
         callback(null, allowed)

@@ -19,7 +19,7 @@ function Workspace({}: WorkspaceProps) {
     return (
       <div css={wrapper}>
         <Helmet>
-          <title>Workspace – Velofolio</title>
+          <title>Workspace – Backtest</title>
         </Helmet>
 
         <ImageWithDescription
@@ -33,7 +33,7 @@ function Workspace({}: WorkspaceProps) {
   return (
     <>
       <Helmet>
-        <title>Workspace – Velofolio</title>
+        <title>Workspace – Backtest</title>
       </Helmet>
       <h1 css={title}>Workspace</h1>
       <BacktestsGrid userId={user.id} />

@@ -11,7 +11,7 @@ function Register({}: RegisterProps) {
   return (
     <div css={block}>
       <Helmet>
-        <title>Register – Velofolio</title>
+        <title>Register – Backtest</title>
       </Helmet>
       <div css={whiteBox}>
         <h1>Welcome!</h1>
