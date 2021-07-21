@@ -1,6 +1,8 @@
 # backtest-portfolio
 
 > This is is yet another U.S. Stock backtest simulator tool. You can easily share your backtest or explore other's backtest within service. This service is currently in beta stage.
+![Screenshot from 2021-07-21 21-12-25](https://user-images.githubusercontent.com/25504715/126487415-b6086a3c-9e66-4faf-a004-546d8741fda0.png)
+
 
 This project is a monorepo of the backtesting service. It contains client & server projects.
 
